@@ -6,15 +6,10 @@
 </h1>
 <br />
 <h3 align="center">
-  Hi, I'm David Macharia, a Software Engineer
-  <br />
-  <br />
-  🎓 Currently a student.
-  <br />
-  💻 I love to learn new technologies and frameworks.
-  <br />
-  🧑‍💼 I’m currently learning drizzle-orm and hono.
-  <br />
+👋 Hi there, I'm David Macharia!
+
+I am a **Software Engineering student** at **Kirinyaga University**, passionate about technology and innovation. I specialize in **backend web development**, creating robust server-side applications, and I am also a **fullstack web developer** with experience in both front-end and back-end technologies. I'm eager to collaborate on exciting projects and continuously improve my skills! 🌟
+
 </h3>
 <!--  -->
   <h2>🐍 Snake eating Contribution🐍</h2>
