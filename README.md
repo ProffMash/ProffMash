@@ -10,6 +10,9 @@
 
 I am a **Software Engineering student** at **Kirinyaga University**, passionate about technology and innovation. I specialize in **backend web development**, creating robust server-side applications, and I am also a **fullstack web developer** with experience in both front-end and back-end technologies. I'm eager to collaborate on exciting projects and continuously improve my skills! 🌟
 
+View my portfolio: 
+https://davidmacharia.vercel.app/
+
 </h3>
 <!--  -->
   <h2>🐍 Snake eating Contribution🐍</h2>
